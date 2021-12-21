@@ -51,9 +51,10 @@ The Application file is arranged as follows:
 | ---- | ---------- |
 |/bin|  Executables for the application and the tests
 |/build|contains compiler's build make files for the application and test cases|
+|/data|  Contains all required data to run the application. It includes the database structure text files and database csv files|
+|/doc||
 |/src| Function source code files|
 |/include| Subfolders for the application header| 
-|/data|  Contains all required data to run the application. It includes the database structure text files and database csv files|
 |/test| Test sources and required data for testing|
 |/video| video folder containing project user demo|
 |/html| contains doxygen documentation file.html| 
