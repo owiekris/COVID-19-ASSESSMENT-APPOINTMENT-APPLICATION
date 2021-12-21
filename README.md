@@ -52,15 +52,16 @@ The Application file is arranged as follows:
 |/bin|  Executables for the application and the tests
 |/build|contains compiler's build make files for the application and test cases|
 |/data|  Contains all required data to run the application. It includes the database structure text files and database csv files|
-|/doc||
-|/src| Function source code files|
+|/doc|contains user and developer manuals|
+|/html| contains doxygen documentation file.html| 
 |/include| Subfolders for the application header| 
+|/src| Function source code files|
 |/test| Test sources and required data for testing|
 |/video| video folder containing project user demo|
-|/html| contains doxygen documentation file.html| 
-|.gitignore|Specifies which files should be ignored by git|
-|/lib|Contains the README file|
 |/license|License of the application|
+|README.md|contains details on the read me document|
+|/lib|Contains the README file|
+|main.c|main program file|
 |/cmake| contains the cmake file|
 
 ### Getting Started
