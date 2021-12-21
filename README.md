@@ -60,9 +60,8 @@ The Application file is arranged as follows:
 |/video| video folder containing project user demo|
 |/license|License of the application|
 |README.md|contains details on the read me document|
-|/lib|Contains the README file|
 |main.c|main program file|
-|/cmake| contains the cmake file|
+|cmake| contains the cmake file|
 
 ### Getting Started
 ##### 1. Compilation Tools
