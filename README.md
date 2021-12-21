@@ -55,6 +55,7 @@ The Application file is arranged as follows:
 |/include| Subfolders for the application header| 
 |/data|  Contains all required data to run the application. It includes the database structure text files and database csv files|
 |/test| Test sources and required data for testing|
+|/video| video folder containing project user demo|
 |/html| contains doxygen documentation file.html| 
 |.gitignore|Specifies which files should be ignored by git|
 |/lib|Contains the README file|
